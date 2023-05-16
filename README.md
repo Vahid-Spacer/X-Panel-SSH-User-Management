@@ -74,3 +74,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/Vahid-Spacer/X-Panel-SSH-User-
 3- دامنه یا ساب دامنه را به IP سرور متصل کنید <br>
 4- دستور بالا را در ترمینال وارد کنید و مراحل نصب را پیش بروید<br>
 SSL بر روی پورتی که روی پنل تعریف کرده اید نصب فعال شد. <br>
+  
+  ## با تشکر از :
+https://github.com/Alirezad07
