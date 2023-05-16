@@ -43,9 +43,6 @@
 :orange_circle: مولتی سرور (به زودی)<br>
 :orange_circle: اتصال API (به زودی)<br>
 
-## Telegram Channel:
-https://t.me/Xpanelssh
-
 # نصب
 
 
@@ -87,15 +84,3 @@ bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Ma
 3- دامنه یا ساب دامنه را به IP سرور متصل کنید <br>
 4- دستور بالا را در ترمینال وارد کنید و مراحل نصب را پیش بروید<br>
 SSL بر روی پورتی که روی پنل تعریف کرده اید نصب فعال شد. <br>
-
-<picture>
-<img alt="XPanel" src="https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/xpanel-1.png">
-</picture>
-
-<picture>
-<img alt="XPanel" src="https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/xpanel-2.png">
-</picture>
-
-<picture>
-<img alt="XPanel" src="https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/xpanel-3.png">
-</picture>
