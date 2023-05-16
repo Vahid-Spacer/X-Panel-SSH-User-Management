@@ -1,12 +1,11 @@
 <p align="center">
 <picture>
-<img width="160" height="160"  alt="XPanel" src="https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/xlogo.png">
+<img width="160" height="160"  alt="XPanel" src="">
 </picture>
   </p> 
 <h1 align="center"/>X Panel</h1>
 <h6 align="center">X Panel SSH User Management<h6>
 <p align="center">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Alirezad07/X-Panel-SSH-User-Management">
 </p>
  
 <p align="center">
@@ -24,9 +23,8 @@
 - [معرفی](#معرفی)<br>
 - [امکانات](#امکانات)<br>
 - [نصب](#نصب) <br>
-  - [بهینه سازی سرور](#بهینه-سازی-سرور)<br>
-  - [فعال سازی SSL](#فعال-سازی-ssl)<br>
-- [حمایت از ما](#حمایت-از-ما-hearts)<br>
+- [بهینه سازی سرور](#بهینه-سازی-سرور)<br>
+- [فعال سازی SSL](#فعال-سازی-ssl)<br>
  
 ## معرفی <br>
 ایکس پنل یک نرم افزار تحت وب جهت مدیریت اکانت SSH می باشد. با کمک پنل تحت وب ایکس پنل می توانید کاربران را مدیریت کرده و محدودیت اعمال کنید.
