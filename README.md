@@ -6,16 +6,6 @@
 <h6 align="center">X Panel SSH User Management<h6>
 <p align="center">
 </p>
- 
-<p align="center">
-	<a href="./README-EN.md">
-	English
-	</a>
-	/
-	<a href="./README.md">
-	فارسی
-	</a>
-</p>
 
 
 ### فهرست
