@@ -1,6 +1,5 @@
 <p align="center">
 <picture>
-<img width="160" height="160"  alt="XPanel" src="">
 </picture>
   </p> 
 <h1 align="center"/>X Panel</h1>
